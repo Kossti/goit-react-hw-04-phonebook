@@ -1,0 +1,17 @@
+.section {
+
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 100%;
+    color: black;
+}
+
+.sectionTitel {
+    font-size: 28px;
+    color: rgb(31, 31, 31);
+    margin: 10px auto 10px;
+}

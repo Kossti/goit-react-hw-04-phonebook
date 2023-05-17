@@ -1,0 +1,47 @@
+.contactsList {
+    margin: 10px auto 0px;
+    padding: 0;
+}
+
+.contactsItem {
+    display: block;
+    width: 300px;
+    margin: 10px 5px; 
+    padding: 5px;
+    gap: 20px;
+    background-color: rgba(62, 86, 146, 0.727);
+    color: whitesmoke;
+    border: none;
+    border-radius: 6px;
+}
+
+.contactsName {
+    font-size: 18px;
+    margin: 10px 10px;
+    text-align: center;
+}
+
+.contactsNumber {
+    font-size: 18px;
+    margin: 10px 10px;
+    text-align: center;
+}
+
+.contactsButton {
+    background-color: rgba(62, 86, 146, 0.727);
+    color: whitesmoke;
+    padding: 5px 5px;
+    margin: 0px auto;
+    border: none;
+    border-radius: 6px;
+    box-shadow: 0px 1px 2px rgba(108, 128, 146, 0.372);
+    font-size: 18px;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+
+.contactsButton:hover {
+    background: rgba(62, 114, 146, 0.727);
+    color: whitesmoke;
+    border: none;
+}
